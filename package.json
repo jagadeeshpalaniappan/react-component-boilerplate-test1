@@ -1,7 +1,7 @@
 {
-  "name": "react-component-boilerplate",
+  "name": "react-component-boilerplate-test1",
   "description": "Boilerplate for React.js components",
-  "author": "Juho Vepsalainen",
+  "author": "Jagadeesh P",
   "user": "survivejs",
   "version": "6.1.2",
   "scripts": {
@@ -84,5 +84,8 @@
   "license": "MIT",
   "pre-push": [
     "test"
-  ]
+  ],
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
 }
